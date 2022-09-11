@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jawad-mohammed.github.io/csb-ot76vf/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/main.d00796da.chunk.js",
+    "main.js.map": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/main.d00796da.chunk.js.map",
+    "runtime-main.js": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/runtime-main.be00759d.js",
+    "runtime-main.js.map": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/runtime-main.be00759d.js.map",
+    "static/js/2.197e5130.chunk.js": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/2.197e5130.chunk.js",
+    "static/js/2.197e5130.chunk.js.map": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/2.197e5130.chunk.js.map",
+    "index.html": "https://jawad-mohammed.github.io/csb-ot76vf/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jawad-mohammed.github.io/csb-ot76vf/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.197e5130.chunk.js.LICENSE.txt": "https://jawad-mohammed.github.io/csb-ot76vf/static/js/2.197e5130.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be00759d.js",
+    "static/js/2.197e5130.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d00796da.chunk.js"
+  ]
+}
